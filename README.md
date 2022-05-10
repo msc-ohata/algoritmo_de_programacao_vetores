@@ -11,8 +11,8 @@ Início
      Q[4]<-20
      Q[5]<-36
      Q[6]<-30
-     * *Ler(Sala)
-     * *Exibir(Q[Sala])
+     *Ler(Sala)*
+     *Exibir(Q[Sala])*
 
 Fim
 
