@@ -1,4 +1,4 @@
-# algoritmo_de_programacao_vetores
+# algoritmo_de_programacao_vetores_feature
 Exemplo de um repositório remoto com a utilização de BRANCH.
 ------------------------------------------------------
 # ALGORITMO DO EXERCÍCIO
